@@ -150,5 +150,3 @@ It includes explanations of the environment design, RL methodology, observation 
 The `AgentController.cs` script is the core component of the agent's behavior, implementing the RL algorithms and defining how the agent interacts with the Unity environment.
 This script is responsible for collecting observations from the environment, processing actions from the neural network, applying rewards and penalties, and implementing the heuristic control for manual operation.
 Together, these files provide a complete and well-documented framework for training and deploying a hiding agent in a simulated environment using the ML-Agents toolkit and Proximal Policy Optimization.
-
-This README provides a detailed explanation of the Hiding Agent training environment, facilitating understanding and reproducibility of the project.
